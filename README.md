@@ -1,21 +1,39 @@
-# Nguyen-Thu-Thao
-My GitHub Profile
-# Hi 👋, I'm My
+# 321yumi-tech
+<h1 align="center">Hi 👋, I'm My</h1>
 
-- 🌱 I’m learning Web Development
-- 💻 I love coding
-- 📫 Contact me: (321fuuyuu@gmail.com)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-<img src="https://media.giphy.com/media/..." width="300"/>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World;I+love+coding" />
-<div align="center">
-  <img src="..."/>
-</div>
+<p align="center">
+  🌱 Learning Web Development <br>
+  💻 Love coding <br>
+  📫 321fuuyuu@gmail.com
+</p>
+
+---
 
 ## 🚀 Skills
-<p>
-  <img src="badge1"/>
-  <img src="badge2"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=321yumi-tech&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=321yumi-tech"/>
+</p>
+
+---
+
+## 🎬 Fun
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
+---
+
+## ✨ Typing
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World;Welcome+to+my+profile"/>
 </p>
