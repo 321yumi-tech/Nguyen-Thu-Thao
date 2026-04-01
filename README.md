@@ -1,10 +1,10 @@
-# Nguyen-Thu-Thao
+# Nguyen-Ngoc-My
 My GitHub Profile
-# Hi 👋, I'm Thao
+# Hi 👋, I'm My
 
 - 🌱 I’m learning Web Development
 - 💻 I love coding
-- 📫 Contact me: (https://www.facebook.com/MilkylyUrimi.Yuu/)
+- 📫 Contact me: (321fuuyuu@gmail.com)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
